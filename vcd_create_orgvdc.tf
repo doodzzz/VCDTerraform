@@ -8,7 +8,7 @@ terraform {
 }
   
 provider "vcd" {
-  user     = var.system_admin
+  user     = var.system_admin_username
   password = var.system_admin_password
   org      = "system"
   url      = var.vcd_api_url
