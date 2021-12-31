@@ -1,5 +1,5 @@
-vcd_admin_username = "<VCD System Administrato Account>"
-vcd_admin_password = "<VCD System Administrator Account Password>"
+system_admin_username = "<VCD System Administrato Account>"
+system_admin_password = "<VCD System Administrator Account Password>"
 vcd_api_url = "https://<VCD URL>/api"
 organization_name = "khashab"
 environment_location = "DevTest"
