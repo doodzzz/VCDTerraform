@@ -11,7 +11,7 @@ provider "vcd" {
   user     = var.system_admin
   password = var.system_admin_password
   org      = "system"
-  url      = var.organization_api_url
+  url      = var.vcd_api_url
 }
 
 resource "vcd_org_vdc" "AlOvDC" {
