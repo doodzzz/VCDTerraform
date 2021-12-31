@@ -1,4 +1,4 @@
-variable "system_admin" {
+variable "system_admin_username" {
   type = string
   description = "VCD System Administrator Account"
 }
